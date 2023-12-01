@@ -1,0 +1,4 @@
+name: intrinsic
+main: com.solar.intrinsic.Intrinsic
+version: 0.0.1
+api-version: 1.15
